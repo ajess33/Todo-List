@@ -1,3 +1,3 @@
 # Todo-List
 
-![Todo Screenshot](/Todo Screenshot.png) 
+![Todo Screenshot](/TodoScreenshot.png) 
